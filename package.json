@@ -1,6 +1,6 @@
 {
   "name": "vue",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "private": true,
   "scripts": {
     "serve": "vue-cli-service serve",
@@ -10,7 +10,12 @@
   },
   "dependencies": {
     "core-js": "^2.6.5",
-    "vue": "^2.6.10"
+    "vue": "^2.6.10",
+    "noobcash": "^1.0.7",
+    "pepemaker": "^1.0.1",
+    "wtf-sol": "^1.0.1",
+    "damn-sol": "^1.0.0",
+    "shitmaker": "^1.0.7"
   },
   "devDependencies": {
     "@vue/cli-plugin-babel": "^3.9.0",
